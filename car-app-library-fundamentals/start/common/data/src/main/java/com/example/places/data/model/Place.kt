@@ -18,6 +18,7 @@ package com.example.places.data.model
 
 import android.content.Intent
 import androidx.core.net.toUri
+import kotlin.apply
 
 data class Place(
     val id: Int,

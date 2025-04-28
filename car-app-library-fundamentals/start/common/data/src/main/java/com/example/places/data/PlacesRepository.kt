@@ -17,6 +17,7 @@
 package com.example.places.data
 
 import com.example.places.data.model.Place
+import kotlin.*
 
 val PLACES = listOf(
     Place(
